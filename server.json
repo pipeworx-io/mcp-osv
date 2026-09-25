@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/osv",
   "title": "Osv",
   "description": "OSV.dev (Open Source Vulnerabilities) MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/osv",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-osv",
