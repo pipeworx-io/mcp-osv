@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-osv",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "OSV.dev (Open Source Vulnerabilities) MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-a11aefebb643376297cd8b7047c1b6d969d8d25ee0c643a3e5f53e10904797d1",
-    "sourceCommit": "adb69d997f82a62e8e22b594488c7d04a227db35"
+    "sourceHash": "v1-c4073a90edd931eb4aa47c78eed61b4fd19bf29a6bd01bbe431dfa293e8388a8",
+    "sourceCommit": "4d51421bd010ad9a322c2245b70b401604912eff"
   }
 }
