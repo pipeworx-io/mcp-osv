@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-osv",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "OSV.dev (Open Source Vulnerabilities) MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "osv",
     "gatewaySlug": "osv",
-    "sourceHash": "v1-041c0c7d4f96d9724c8fe7a7454b7b05cfa0d166fc9f13b717939a068996e70a",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-f3c5b744925bd9bef5a6c4a11f1d95e0c36292f8276feb68619c4200a541eec7",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
